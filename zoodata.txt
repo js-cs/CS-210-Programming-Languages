@@ -1,0 +1,6 @@
+000001 Franky          Mammal          Monkey          0 1
+000002 Franky Jr       Mammal          Monkey          0 0
+000003 Larry           Oviparous       Crocodile       2 0
+000004 Sally           Oviparous       Crocodile       12 0
+000005 Geraldine       Mammal          Dog             0 1
+000006 Gerald          Mammal          Dog             0 0
